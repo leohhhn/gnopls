@@ -1,6 +1,8 @@
 # `gnopls`, the Gno language server
 
-![Build & Test](https://github.com/gnolang/gnopls/actions/workflows/go.yml/badge.svg)
+> [!WARNING]  
+> This is an archived repository. Check out [gnoverse/gnopls](https://github.com/gnoverse/gnopls), which currently the most up-to-date Gno language server.
+
 
 `gnopls` (pronounced "Gno please") is the Gno [language server]. It provides IDE features to any [LSP]-compatible editor.
 
@@ -31,3 +33,5 @@ As some part of code is copied and modified from [gnols](https://github.com/gno-
 
 [language server]: https://langserver.org
 [LSP]: https://microsoft.github.io/language-server-protocol/
+
+![Build & Test](https://github.com/gnolang/gnopls/actions/workflows/go.yml/badge.svg)
